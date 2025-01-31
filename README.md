@@ -130,7 +130,6 @@ void setting1Function() {
 - Maximum 50 items per menu
 - Maximum 5 levels of nested menus
 - Menu labels must be string literals or have static lifetime
-- Requires sufficient RAM for dynamic allocation of menu items
 
 ## Contributing
 
