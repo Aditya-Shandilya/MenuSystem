@@ -1,0 +1,23 @@
+{
+    "name": "MenuSystem",
+    "version": "1.0.0",
+    "description": "A vertical menu system for Arduino LCD displays with I2C interface",
+    "keywords": "lcd, menu, i2c, display, ui, interface",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aditya-Shandilya/MenuSystem.git"
+    },
+    "authors": [
+        {
+            "name": "Aditya Shandilya",
+            "email": "adityaranjanmumbai@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "marcoschwartz/LiquidCrystal_I2C": "^1.1.4"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
